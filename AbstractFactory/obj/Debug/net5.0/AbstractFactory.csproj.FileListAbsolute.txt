@@ -1,0 +1,16 @@
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
+D:\Учёба\2 курс\Шарпы\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csprojAssemblyReference.cache
